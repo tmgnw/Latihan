@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zxNyNT05gCYIW/9lb7agHizF1EF8J2zFLz0Yz0hQBonJSy0oK6tQeST5MexUI3VVhb5Ugw5FvPG0oxIs4b89Iw==",
+  "dgSpecHash": "F8BndPgPZeQp583QW1vSerqsWG6MTZs4Pfr2YQMwe8rEO2Y+KTbPUKU+4Xm6zMBCMbq+WbXNXQ++Bi0mtNo/PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thomas\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Thomas\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

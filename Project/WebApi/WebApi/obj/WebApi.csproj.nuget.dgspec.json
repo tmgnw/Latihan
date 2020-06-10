@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Angular\\Project\\WebApi\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Thomas\\Documents\\Angular 7\\Latihan\\Project\\WebApi\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
